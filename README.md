@@ -81,7 +81,6 @@ Logout: Limpeza do estado de acesso e retorno à tela de login.
 
 Depois de colar tudo dentro do seu `README.md` no VS Code e salvar com **Ctrl + S**, é só mandar estes 3 comandos no terminal para subir pro GitHub:
 
-```powershell
 git add README.md
 git commit -m "docs: atualizando readme"
 git push
